@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Github-jobs-with-reacts/static/css/main.ea0892d8.chunk.css",
+    "main.js": "/Github-jobs-with-reacts/static/js/main.f79b4493.chunk.js",
+    "main.js.map": "/Github-jobs-with-reacts/static/js/main.f79b4493.chunk.js.map",
+    "runtime-main.js": "/Github-jobs-with-reacts/static/js/runtime-main.64e2a373.js",
+    "runtime-main.js.map": "/Github-jobs-with-reacts/static/js/runtime-main.64e2a373.js.map",
+    "static/js/2.434989e8.chunk.js": "/Github-jobs-with-reacts/static/js/2.434989e8.chunk.js",
+    "static/js/2.434989e8.chunk.js.map": "/Github-jobs-with-reacts/static/js/2.434989e8.chunk.js.map",
+    "index.html": "/Github-jobs-with-reacts/index.html",
+    "precache-manifest.1ac53565b111ecf61f88271ba56c834f.js": "/Github-jobs-with-reacts/precache-manifest.1ac53565b111ecf61f88271ba56c834f.js",
+    "service-worker.js": "/Github-jobs-with-reacts/service-worker.js",
+    "static/css/main.ea0892d8.chunk.css.map": "/Github-jobs-with-reacts/static/css/main.ea0892d8.chunk.css.map",
+    "static/js/2.434989e8.chunk.js.LICENSE.txt": "/Github-jobs-with-reacts/static/js/2.434989e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64e2a373.js",
+    "static/js/2.434989e8.chunk.js",
+    "static/css/main.ea0892d8.chunk.css",
+    "static/js/main.f79b4493.chunk.js"
+  ]
+}
